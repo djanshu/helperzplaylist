@@ -220,9 +220,3 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/master/611d
 http://familyip.vip/kids247/index.m3u8?token=a3f37243b6185ca914dfcc59c6606f2a
 #EXTINF:-1 tvg-id="Kids Car movies" tvg-logo="https://i.imgur.com/EHKD6lc.gif" group-title="Kids",Kids Car movies
 http://familyip.vip/carsVOD24/7/index.m3u8?token=3feeefef25dc962d2db508b2cf23f81f
-
-
-#EXTINF:-1 tvg-id="Test 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/SMPTE_Color_Bars.svg/330px-SMPTE_Color_Bars.svg.png" group-title="Test",Test 1
-https://api-ott.electricnow.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=430&partner=distro&ads.islive=1&ads.streamtype=live&ads.vf=20241020
-#EXTINF:-1 tvg-id="Test 2" tvg-logo="https://yt3.googleusercontent.com/v4Dxo5UtSrqmq1pRj7r9y8sIBKg_nOrOZVYwUJ9ZmJcB4YtCxBjNyxmU1I1bBbwtm_Lq-u4D=s160-c-k-c0x00ffffff-no-rj" group-title="Test",Test 2
-https://youtube.com/watch?v=3446A6FzW3o&pp=uAQw
