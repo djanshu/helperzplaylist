@@ -1,0 +1,228 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Mediavision TV" tvg-logo="https://i.imgur.com/YPXs2Hh.png" group-title="Malayalam Local TV",Mediavision TV
+https://live20.bozztv.com/akamaissh101/ssh101/mvtv/chunks.m3u8
+#EXTINF:-1 tvg-id="KCL HD" tvg-logo="https://i.imgur.com/bkp9dIm.png" group-title="Malayalam Local TV",KCL HD
+https://kcltv.livebox.co.in/kclhls/live.m3u8
+#EXTINF:-1 tvg-id="Anand TV" tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="Malayalam Local TV",Anand TV
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+#EXTINF:-1 tvg-id="C Malayalam TV" tvg-logo="https://i.imgur.com/rpg0bQA.png" group-title="Malayalam Local TV",C Malayalam TV
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Eagle One" tvg-logo="https://i.imgur.com/qelJwNi.png" group-title="Malayalam Local TV",Eagle One
+https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
+#EXTINF:-1 tvg-id="Pravasi TV" tvg-logo="https://i.imgur.com/1dHarb7.png" group-title="Malayalam Local TV",Pravasi TV
+https://m6gdavepdn93-hls-live.5centscdn.com/indialife/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="India Life" tvg-logo="https://i.imgur.com/Jg0FehL.jpeg" group-title="Malayalam Local TV",India Life
+https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Pulari TV" tvg-logo="https://i.imgur.com/v5urG30.png" group-title="Malayalam Local TV",Pulari TV
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+#EXTINF:-1 tvg-id="Star Net" tvg-logo="https://i.imgur.com/J3jB7Kr.png" group-title="Malayalam Local TV",Star Net
+https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
+#EXTINF:-1 tvg-id="VBC News" tvg-logo="https://i.imgur.com/SvXCjha.png" group-title="Malayalam Local TV",VBC News
+https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
+#EXTINF:-1 tvg-id="VCV" tvg-logo="https://i.imgur.com/KbU36xI.png" group-title="Malayalam Local TV",VCV
+https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
+#EXTINF:-1 tvg-id="Venad News" tvg-logo="https://i.imgur.com/MC6edvH.jpg" group-title="Malayalam Local TV",Venad News
+https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
+#EXTINF:-1 tvg-id="VISION Media" tvg-logo="https://i.imgur.com/YozqNL3.jpg" group-title="Malayalam Local TV",VISION Media
+http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KVTV" tvg-logo="https://i.imgur.com/HnaxGPs.jpeg" group-title="Malayalam Local TV",KVTV
+https://2-fss-2.themediacdn.com/pl_138/206324-3157544-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="KVTV Music" tvg-logo="https://i.imgur.com/qai4Wea.jpeg" group-title="Malayalam Local TV",KVTV Music
+https://2-fss-2.themediacdn.com/pl_138/206324-3157542-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="UTV Palakkad" tvg-logo="https://i.imgur.com/XoOb2v8.jpeg" group-title="Malayalam Local TV",UTV Palakkad
+https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Vibgyor TV" tvg-logo="https://yt3.googleusercontent.com/MXwTjAfrO0S1PVz_zfGVbIhxn4_Ti5T1afornA3mqPfZ80Jm2zVO1TaByrGkD5p21RhaEKKC=s900-c-k-c0x00ffffff-no-rj" group-title="Malayalam Local TV",Vibgyor TV
+https://pvqybagglz24-hls-live.5centscdn.com/7788_push_2913_001/c98886a28a6a78b57f2d090f3b0ecac4.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DD malayalam" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Malayalam Entertainment",DD malayalam
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
+#EXTINF:-1 tvg-id="Flowers TV usa" tvg-logo="https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png" group-title="Malayalam Entertainment",Flowers TV usa
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+#EXTINF:-1 tvg-id="Garshom TV" tvg-logo="https://i.imgur.com/KnbwUyb.png" group-title="Malayalam Entertainment",Garshom TV
+https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Kaumudy TV" tvg-logo="https://i.imgur.com/hIYO27z.jpeg" group-title="Malayalam Entertainment",Kaumudy TV
+https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Magna Vision" tvg-logo="https://i.imgur.com/mUHixbi.png" group-title="Malayalam Entertainment",Magna Vision
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
+#EXTINF:-1 tvg-id="Mazhavil Manorama" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam Entertainment",Mazhavil Manorama
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
+#EXTINF:-1 tvg-id="Jaihind TV" tvg-logo="https://i.imgur.com/MVFwLw8.jpeg" group-title="Malayalam Entertainment",Jaihind TV
+http://gn85.xyz:80/R538K3AF4CEJ81V/g3nkQ1YaHS/285815
+#EXTINF:-1 tvg-id="Jeevan TV" tvg-logo="https://i.imgur.com/0mPBi6Y.jpeg" group-title="Malayalam Entertainment",Jeevan TV
+http://familyip.vip/BC_336/mpegts?token=7ff09c5d8c0806e82b76ac77b8a2c62d
+#EXTINF:-1 tvg-id="Kappa TV" tvg-logo="https://i.imgur.com/El5Xw0n.jpeg" group-title="Malayalam Entertainment",Kappa TV
+http://familyip.vip/BC_1236/mpegts?token=44f7e2bfe83ccce1b6c2fbe86c6094e5
+#EXTINF:-1 tvg-id="Amrita TV" tvg-logo="https://i.imgur.com/NRFZJvl.jpeg" group-title="Malayalam Entertainment",Amrita TV
+https://d2lzf5tle3ge1s.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="Kairali TV" tvg-logo="https://i.imgur.com/5eyI5Zm.jpeg" group-title="Malayalam Entertainment",Kairali TV
+http://familyip.vip/BC_1238/mpegts?token=c8199ac9cab800d08e230ff836b1296b
+#EXTINF:-1 tvg-id="Kairali Arabia" tvg-logo="https://i.imgur.com/mVRKwAj.png" group-title="Malayalam Entertainment",Kairali Arabia
+http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:00:11:8B&stream=155838&extension=ts&play_token=DAZjooEMB8
+#EXTINF:-1 tvg-id="Kairali WE" tvg-logo="https://i.imgur.com/Qd7MCFM.jpeg" group-title="Malayalam Entertainment",Kairali WE
+http://familyip.vip/BC1_216/mpegts?token=6d591c142525a83a636267bef65b5f9c
+#EXTINF:-1 tvg-id="Darshana TV" tvg-logo="https://i.imgur.com/z6lkYE8.jpeg" group-title="Malayalam Entertainment",Darshana TV
+https://cdn-2.pishow.tv/live/1453/master.m3u8
+#EXTINF:-1 tvg-id="Safari TV" tvg-logo="https://i.imgur.com/fksOSum.png" group-title="Malayalam Entertainment",Safari TV
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.imgur.com/BqDn3uJ.png" group-title="Malayalam Entertainment",Surya movies
+http://familyip.vip/BC_1208/mpegts?token=c92e4b14b410d5af7bc977c0ea26cf0b
+#EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.imgur.com/MwT9X9J.jpeg" group-title="Malayalam Entertainment",Asianet movies HD
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443057&extension=ts&play_token=FPh4kuMnod
+#EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.imgur.com/16BSw85.jpeg" group-title="Malayalam Entertainment",Asianet movies
+http://familyip.vip/BC_1224/index.m3u8?token=d9ea2718167838633f90737711445dc1
+#EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://i.imgur.com/RotsgI9.jpeg" group-title="Malayalam Entertainment",Asianet HD
+http://familyip.vip/BC_128/index.m3u8?token=8467712293169693d3c6ab76bd4a5666
+#EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.imgur.com/QaUxc2P.jpeg" group-title="Malayalam Entertainment",Asianet Plus
+http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:00:11:8B&stream=155822&extension=ts&play_token=mqYAuBIr0j
+#EXTINF:-1 tvg-id="Asianet Middle East" tvg-logo="https://i.postimg.cc/Qdj4DcX9/asianet-middle-east.jpg" group-title="Malayalam Entertainment",Asianet  Middle East
+http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:00:11:8B&stream=1528397&extension=ts&play_token=p4dgK9rxgw
+#EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.imgur.com/xCzqv5Y.jpeg" group-title="Malayalam Entertainment",Surya TV HD
+http://familyip.vip/BC_168/index.m3u8?token=dd087e8b53616528957a2006641dd3b5
+#EXTINF:-1 tvg-id="Zee Keralam HD" tvg-logo="https://i.imgur.com/l4q2EZ8.jpeg" group-title="Malayalam Entertainment",Zee Keralam HD
+http://familyip.vip/BC_1204/index.m3u8?token=664c45798101e1f60740e483cd86085a
+#EXTINF:-1 tvg-id="Kerala vision" tvg-logo="https://i.postimg.cc/zD9f81VR/kerala-vision-project-office-pudukad-thrissur-qhoquob9vw-250.jpg" group-title="Malayalam Entertainment",Kerala Vision
+http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:00:11:8B&stream=1108537&extension=ts&play_token=wqr1PtlTfu
+
+
+#EXTINF:-1 tvg-id="Victers TV" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Education",Victers TV
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Turito IIT JEE" tvg-logo="https://i.imgur.com/FnvkvWk.jpeg" group-title="Education",Turito IIT JEE
+https://yuppparoriglin.akamaized.net/181224/smil:ymcc12thiit.smil/hdntl=exp=1752156518~acl=%2f*~data=hdntl~hmac=e960ff221cd10d935d1563483232f754e62dbdf08cd79bef62cf85d5a4473d3c/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-id="Turito NEET" tvg-logo="https://i.imgur.com/cflKxbp.jpeg" group-title="Education",Turito NEET
+https://yuppparoriglin.akamaized.net/181224/smil:ymcc12thneet.smil/hdntl=exp=1752156792~acl=%2f*~data=hdntl~hmac=d173d8938c3682bce93be97598b810f050427636469cb00f912816244f8f7ebd/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-id="Makkah TV" tvg-logo="https://i.imgur.com/Rjiput7.jpeg" group-title="Religious",Makkah TV
+http://familyip.vip/SAUDIQRAANHD/mpegts?token=264f03fab9c668708af60a60932bb286
+#EXTINF:-1 tvg-id="Madeena TV" tvg-logo="https://i.imgur.com/PUxXHYd.png" group-title="Religious",Madeena TV
+http://familyip.vip/AR_SaudiSunnah/index.m3u8?token=0361e45be5ad79190dbc611b6bc87779
+#EXTINF:-1 tvg-id="MTA 7 Aasia" tvg-logo="https://i.imgur.com/3Nl8Tpu.png" group-title="Religious",MTA 7 Aasia
+https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
+#EXTINF:-1 tvg-id="Divine TV USA" tvg-logo="https://i.imgur.com/Yx0AnLW.png" group-title="Religious",Divine TV USA
+https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="Harvest TV" tvg-logo="https://i.imgur.com/1DyPuIt.png" group-title="Religious",Harvest TV
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
+#EXTINF:-1 tvg-id="Shalom TV" tvg-logo="https://i.imgur.com/0eVTmtf.png" group-title="Religious",Shalom TV
+https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="Shalom TV Global" tvg-logo="https://i.imgur.com/qUjsV79.png" group-title="Religious",Shalom TV Global
+https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Reporter TV" tvg-logo="https://i.imgur.com/SkmfyBN.jpeg" group-title="Malayalam News",Reporter TV
+https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
+#EXTINF:-1 tvg-id="Asianet News" tvg-logo="https://i.imgur.com/LrHGfdC.png" group-title="Malayalam News",Asianet News
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="Twenty Four News" tvg-logo="https://i.imgur.com/6DOCPsl.jpeg" group-title="Malayalam News",Twenty Four News
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
+#EXTINF:-1 tvg-id="News Malayalam 24x7" tvg-logo="https://i.imgur.com/9Yyzvp9.jpeg" group-title="Malayalam News",News Malayalam 24x7 
+https://cdn-3.pishow.tv/live/1629/master.m3u8
+#EXTINF:-1 tvg-id="Manorama News" tvg-logo="https://i.imgur.com/n9ABnlu.jpeg" group-title="Malayalam News",Manorama News
+https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
+#EXTINF:-1 tvg-id="Mathrubhumi News" tvg-logo="https://i.imgur.com/ANh7Zpg.jpeg" group-title="Malayalam News",Mathrubhumi News
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
+#EXTINF:-1 tvg-id="Media One" tvg-logo="https://i.imgur.com/Jmdo2L6.jpeg" group-title="Malayalam News",Media One
+https://cdn-3.pishow.tv/live/1481/master.m3u8
+#EXTINF:-1 tvg-id="News 18 Kerala" tvg-logo="https://i.imgur.com/HIFufHH.jpeg" group-title="Malayalam News",News 18 Kerala 
+https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/News18_Kerala_NW18_MOB-audio_98834_eng=98800-video=1272000.m3u8
+#EXTINF:-1 tvg-id="Kairali News" tvg-logo="https://i.imgur.com/SjOjdmM.jpeg" group-title="Malayalam News",Kairali News
+https://cdn-3.pishow.tv/live/1469/master.m3u8
+#EXTINF:-1 tvg-id="Zee Malayalam News" tvg-logo="https://i.imgur.com/HGqzaen.jpeg" group-title="Malayalam News",Zee Malayalam News
+https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-id="Real Kerala News" tvg-logo="https://i.imgur.com/8hnJuxa.png" group-title="Malayalam News",Real Kerala News
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Janam TV " tvg-logo="https://i.imgur.com/rSu5A45.jpeg" group-title="Malayalam News",Janam TV
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Raj News Malayalam" tvg-logo="https://i.imgur.com/jdGExit.jpeg" group-title="Malayalam News",Raj News Malayalam
+http://familyip.vip/BC_324/mpegts?token=dc2b00c65f769538ade400d7f36c4cae
+#EXTINF:-1 tvg-id="Kerala Vision News" tvg-logo="https://i.postimg.cc/KcnRTT28/channels4-profile-7.jpg" group-title="Malayalam News",Kerala Vision News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1752576253/ei/ndx1aO_eB7OGvdIP6vKiuA0/ip/217.165.12.132/id/3446A6FzW3o.14/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AY1jyLOEIN3Royn68b5xJpbISOftlOgWlQLRq4xx3MI5DlA6eeISFmuceQUF33exec3Rs5DR-g/spc/l3OVKfFTEPic5Kc7MQCEwIMWQ5DdKq_esxGfZxIqWCU85r4Gk29tUU_UeRDnfKx7Fj8n/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALJW_k1yilz9gFWz4jx1qTZrSwTe0RRe_5sVqpG0q39xAiA9M-PvPn9-aDGX1HD7f4KyYjBvwde66DJsHhe0Y21fgQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="Al Jazeera HD" tvg-logo="https://i.imgur.com/JyKBuhT.jpeg" group-title="English News",Al Jazeera HD
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="BBC News HD" tvg-logo="https://i.imgur.com/JzSl1sK.jpeg" group-title="English News",BBC News HD
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+#EXTINF:-1 tvg-id="Sky News HD" tvg-logo="https://i.imgur.com/nYRPdry.jpeg" group-title="English News",Sky News HD
+https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_channelId=99951223
+#EXTINF:-1 tvg-id="India Today" tvg-logo="https://i.imgur.com/tEgjSyj.jpeg" group-title="English News",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 tvg-id="Times Now" tvg-logo="https://i.imgur.com/nVAFi0b.jpeg" group-title="English News",Times Now
+https://edge2-moblive.yuppcdn.net/drm/smil:timesnowdrm.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://i.imgur.com/gWqqLhQ.jpeg" group-title="Documentary",National Geographic
+https://fl5.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="https://i.imgur.com/rtFRB49.jpeg" group-title="Documentary",Nat Geo Wild
+https://fl5.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="Xplore HD" tvg-logo="https://i.imgur.com/hS5ex1q.png" group-title="Documentary",Xplore HD
+https://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4K travel" tvg-logo="https://i.imgur.com/Qtgiu0b.png" group-title="Documentary",4K travel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23064&ads.content_duration=18000&ads.episode_id=83817&ads.show_id=3193&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel%2CLifestyle%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=4K%20TRAVEL%20TV&ads.episodetitle=4K%20TRAVEL%20TV&ads.keywords=Travel&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
+
+
+
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-id="Star Sports Tamil 1 HD" tvg-logo="https://i.imgur.com/SiXTPfT.jpeg" group-title="Sports",Star Sports Tamil 1 HD
+http://familyip.vip/dd_s_t/index.m3u8?token=03af2edba951d837f57d95d6a0c850ce
+#EXTINF:-1 tvg-id="Star Sports Hindi 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports Hindi 1 HD
+http://familyip.vip/In_Hin_1/index.m3u8?token=884facafb7fbfd74041ec8a4761d2887
+#EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/iv1tSyr.jpeg" group-title="Sports",Star Sports Select 1 HD
+http://familyip.vip/SS1_IND/index.m3u8?token=e2b33a477066a6aa8976858b3f460edc
+#EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/ldSVOiS.png" group-title="Sports",Star Sports Select 2 HD
+http://familyip.vip/IND_SL2/index.m3u8?token=6a00d7d362bf8658989e9d1263263f4b
+#EXTINF:-1 tvg-id="Ten Sports HD" tvg-logo="https://i.imgur.com/i1KseGo.png" group-title="Sports",Ten Sports HD
+http://familyip.vip/P_T102/index.m3u8?token=6650bba34e8a04793164a0db5d3cf03f
+#EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://i.imgur.com/kYdG0xm.jpeg" group-title="Sports",Sony ten 1 HD
+http://familyip.vip/SPTEN1HD/mpegts?token=aa7b33ba07de534feedfc94274c3b109
+#EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Sports",Sony ten 2 HD
+http://familyip.vip/IN_SNT2/mpegts?token=5d70d3e08befe43b90edbcba6a3fe274
+#EXTINF:-1 tvg-id="Sony ten 3 Hindi" tvg-logo="https://i.imgur.com/MXwkKBn.jpeg" group-title="Sports",Sony ten 3 Hindi
+http://familyip.vip/tenso3/index.m3u8?token=665bbcb29f5d7046bbef11d5994ce69d
+#EXTINF:-1 tvg-id="Sony ten 5 HD" tvg-logo="https://i.imgur.com/fYoa25V.jpeg" group-title="Sports",Sony ten 5 HD
+http://familyip.vip/S_Ten5/mpegts?token=e14d50e71b45923c80d2aa992a055e5f
+#EXTINF:-1 tvg-id="Astro Cricket" tvg-logo="https://i.imgur.com/lYSe3pt.jpeg" group-title="Sports",Astro Cricket
+http://familyip.vip/Cr_AS/index.m3u8?token=dcff9b88e7f1dd0df79e197ab487b9f2
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-logo="https://i.imgur.com/K9Pofpv.png" group-title="Sports",Sky Sports Cricket
+http://familyip.vip/IN_S28/index.m3u8?token=19de4711da340e63f244daf66d31475c
+#EXTINF:-1 tvg-id="Willow Cricket" tvg-logo="https://i.imgur.com/xD7Zhel.jpeg" group-title="Sports",Willow Cricket
+http://familyip.vip/Wi_Cr/index.m3u8?token=ea6898c9b55c6599ec21bc935b029bf5
+
+#EXTINF:-1 tvg-id="FIFA Club World CUP" tvg-logo="https://i.postimg.cc/MGjFCKKc/Screenshot-2025-04-01-190506.png" group-title="FIFA Club World CUP",FIFA Club World CUP LIVE - 01
+http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:00:11:8B&stream=1616918&extension=ts&play_token=q7Zh79ENiQ
+#EXTINF:-1 tvg-id="FIFA Club World CUP" tvg-logo="https://i.postimg.cc/MGjFCKKc/Screenshot-2025-04-01-190506.png" group-title="FIFA Club World CUP",FIFA Club World CUP LIVE - 02
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFA Club World CUP" tvg-logo="https://i.postimg.cc/MGjFCKKc/Screenshot-2025-04-01-190506.png" group-title="FIFA Club World CUP",FIFA Club World CUP LIVE - 03
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFA Club World CUP" tvg-logo="https://i.postimg.cc/MGjFCKKc/Screenshot-2025-04-01-190506.png" group-title="FIFA Club World CUP",FIFA Club World CUP LIVE - 04
+http://91.222.174.222:80/DAZN-1/index.m3u8
+
+#EXTINF:-1 tvg-id="Hallmark Movies HD" tvg-logo="https://i.imgur.com/Rwv0Lf5.png" group-title="English Movies",Hallmark Movies HD
+https://dbrb49pjoymg4.cloudfront.net/10001/99991709/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991709
+#EXTINF:-1 tvg-id="Hollywood Movies" tvg-logo="https://i.imgur.com/09N3JsQ.jpeg" group-title="English Movies",Hollywood Movies
+https://movies.nexg.tv/movie-h/movie-h.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Universal Action" tvg-logo="https://i.imgur.com/NH7SFAs.png" group-title="English Movies",Universal Action
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254
+#EXTINF:-1 tvg-id="Korean Movies & Series" tvg-logo="https://i.imgur.com/WQQQIRY.png" group-title="English Movies",Korean Movies & Series
+https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991386
+#EXTINF:-1 tvg-id="Electric NOW" tvg-logo="https://i.imgur.com/W8vQDbk.png" group-title="English Movies",Electric NOW
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=151
+
+
+#EXTINF:-1 tvg-id="Bollywood HD" tvg-logo="https://i.postimg.cc/J7DybKwM/ezgif-16b980eb4820a2.jpg" group-title="Hindi Movies",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87418&ads.show_id=3260&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CBollywood%2CAsian&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=hi&ads.showtitle=Bollywood%20HD&ads.episodetitle=Bollywood%20HD&ads.keywords=Bollywood%2CHindu%2CMovies%2Cdesi&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
+
+#EXTINF:-1 tvg-id="Kochu TV" tvg-logo="https://i.imgur.com/y8WHjL9.jpeg" group-title="Kids",Kochu TV
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443046&extension=ts&play_token=bANQTEIMke
+#EXTINF:-1 tvg-id="Kids TV" tvg-logo="https://i.imgur.com/RECmyf2.png" group-title="Kids",Kids TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99991107/hls/master.m3u8?ads.xumo_channelId=99991107
+#EXTINF:-1 tvg-id="Baby first" tvg-logo="https://i.imgur.com/bBePEwA.png" group-title="Kids",Baby first
+https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+#EXTINF:-1 tvg-id="Chu Chu TV" tvg-logo="https://i.imgur.com/ygOwv3E.jpeg" group-title="Kids",Chu Chu TV
+http://familyip.vip/kids247/index.m3u8?token=a3f37243b6185ca914dfcc59c6606f2a
+#EXTINF:-1 tvg-id="Kids Car movies" tvg-logo="https://i.imgur.com/EHKD6lc.gif" group-title="Kids",Kids Car movies
+http://familyip.vip/carsVOD24/7/index.m3u8?token=3feeefef25dc962d2db508b2cf23f81f
+
+
+#EXTINF:-1 tvg-id="Test 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/SMPTE_Color_Bars.svg/330px-SMPTE_Color_Bars.svg.png" group-title="Test",Test 1
+https://api-ott.electricnow.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=430&partner=distro&ads.islive=1&ads.streamtype=live&ads.vf=20241020
+#EXTINF:-1 tvg-id="Test 2" tvg-logo="https://yt3.googleusercontent.com/v4Dxo5UtSrqmq1pRj7r9y8sIBKg_nOrOZVYwUJ9ZmJcB4YtCxBjNyxmU1I1bBbwtm_Lq-u4D=s160-c-k-c0x00ffffff-no-rj" group-title="Test",Test 2
+https://youtube.com/watch?v=3446A6FzW3o&pp=uAQw
