@@ -31,8 +31,6 @@ https://2-fss-2.themediacdn.com/pl_138/206324-3157544-1/chunklist.m3u8
 https://2-fss-2.themediacdn.com/pl_138/206324-3157542-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="UTV Palakkad" tvg-logo="https://i.imgur.com/XoOb2v8.jpeg" group-title="Malayalam Local TV",UTV Palakkad
 https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Vibgyor TV" tvg-logo="https://yt3.googleusercontent.com/MXwTjAfrO0S1PVz_zfGVbIhxn4_Ti5T1afornA3mqPfZ80Jm2zVO1TaByrGkD5p21RhaEKKC=s900-c-k-c0x00ffffff-no-rj" group-title="Malayalam Local TV",Vibgyor TV
-https://pvqybagglz24-hls-live.5centscdn.com/7788_push_2913_001/c98886a28a6a78b57f2d090f3b0ecac4.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DD malayalam" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Malayalam Entertainment",DD malayalam
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
