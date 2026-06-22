@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Mediavision TV" tvg-logo="https://i.imgur.com/YPXs2Hh.png" group-title="Fifa Local TV",Mediavision TV
 http://193.239.186.231/ZDF/index.m3u8
-#EXTINF:-1 tvg-id="fifa TV" tvg-logo="https://i.imgur.com/YPXs2Hh.png" group-title="Fifa Local TV",fifa TV
+#EXTINF:-2 tvg-id="fifa TV" tvg-logo="https://i.imgur.com/YPXs2Hh.png" group-title="Fifa Local TV",fifa TV
 http://193.239.186.231/NPO1/index.m3u8
