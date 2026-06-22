@@ -3,3 +3,5 @@
 http://193.239.186.231/ZDF/index.m3u8
 #EXTINF:-2 tvg-id="fifa TV" tvg-logo="https://i.imgur.com/YPXs2Hh.png" group-title="Fifa Local TV",fifa TV
 http://193.239.186.231/NPO1/index.m3u8
+#EXTINF:-3 tvg-id="fifa TV" tvg-logo="https://i.imgur.com/YPXs2Hh.png" group-title="Fifa 2 Local TV",fifa 2 TV
+https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-13/2rvn-cv3b_1080p/chunklist_DVR.m3u8
